@@ -43,4 +43,5 @@ require("lazy").setup({
       },
     },
   },
+  opts = { style = "moon" },
 })

@@ -3,6 +3,7 @@ return {
   opts = {
     formatters_by_ft = {
       c = { "clang_format" },
+      python = { "black" },
     },
     formatters = {
       clang_format = {

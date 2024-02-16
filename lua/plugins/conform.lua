@@ -1,6 +1,7 @@
 return {
   "stevearc/conform.nvim",
   opts = {
+    autoformat = false,
     formatters_by_ft = {
       c = { "clang_format" },
       python = { "black" },

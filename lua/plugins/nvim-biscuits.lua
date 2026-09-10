@@ -1,5 +1,6 @@
 return {
   "code-biscuits/nvim-biscuits",
+  enabled = false,
   name = "nvim-biscuits",
   version = "*",
   dependencies = {
